@@ -48,3 +48,42 @@ digital fabrication machines.
 ### Manager of a small Computer company (ELReem For Computer Services).
 ### Computer Technician (Right Track For Computer Services )
 
+## Technical Skills
+* Programming in embedded C, Arduino C, Matlab.
+* andriod Programming Using Java
+* Web development using HTML5/JS/CSS3
+* Embedded systems development using Micro-Controllers (PIC, AVR, ARM) and Arduino.
+* Matlab and Simulink for image processing and designing control models.
+* Labview for design, simulation, testing and implementation control systems and control UI.
+* Electronic Design
+* Mechanical designing, 3D modeling and simulation on Autodesk Inventor & Solidworks.
+* Digital Fabrication &design for Manufactring
+* Working with Windows and Linux operating systems.
+* Proteus and Eagle CAD for design and simulation PCBs.
+* Plc (LG , Siemens , AllenBradley)
+* Hydraulic systems
+
+## Languages
+- Arabic: Mother tongue.
+- English: Very good.
+
+## Projects
+### Smart Green House .
+* Designed & fabricated a whole Green house building& control unit for controlling (temp ,
+humidity , Gases ).
+### VR Robot
+* Designed and fabricated a voice recognition robot .
+### Smart & Sustainable House
+* Worked with architectural team in FEDA week contest as mechatronics specialist to make a smartsustainable house.
+### HVAC System
+* Working on Designing & Manufacturing a control system for Heating,Ventilation& Air
+Conditioning Systems .
+### Smart irrigating Robot
+* Working on Designing & Manufacturing a complete robot for Irrigating the green lands using the
+GPS .
+### CNC Milling Machine .
+* Design and manufacturing of a Milling Machine (mechanical system, embedded systems and programming) as a project for College .
+## Robocon 2010 Robot .
+* Working as Mechnical Designer For Robot .
+### Fire Fighting Robot.
+* Working as a control Member Designing the robot control .
